@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Git,AWS,JS**
 
-- 👨‍💻 All of my projects are available at [https://syedmoin-lab.github.io/Portfolio-1.0/](https://syedmoin-lab.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [My-Portfolio](https://syedmoin-lab.github.io/My-Portfolio/)
 
 - 💬 Ask me about **AI,AWS**
 
