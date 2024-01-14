@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Syed Moinuddin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Git,AWS,JS**
+- 🌱 I’m currently learning **Git,AWS,Java Scrpit**
 
 - 👨‍💻 All of my projects are available at [My-Portfolio](https://syedmoin-lab.github.io/My-Portfolio/)
 
-- 💬 Ask me about **AI,AWS**
+- 💬 Ask me about **AI,AWS,SDE,Web Design**
 
 - 📫 How to reach me **syedmoinuddin106@gmail.com**
 
