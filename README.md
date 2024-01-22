@@ -1,10 +1,13 @@
+
+![My LinkedIn Banner](https://github.com/SyedMoin-lab/SyedMoin-Lab/assets/63508680/6e695728-a191-47e6-aa9f-c562b6117278)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is I'm Syed Moinuddin
 ==========================================================================================================================================
 
 Software Development Engineer-Front-End Developer
 -------------------------------------------------
 
-Greetings! I'm a motivated Front-End Developer with one year of hands-on experience in shaping compelling digital experiences. My journey in the tech world has been marked by a dynamic role focused on front-end development. In my year-long journey, I've honed my skills in key technologies, including JavaScript, React.js, Node.js, and Next.js. My passion lies in creating seamless and visually appealing user interfaces that enhance the overall user experience. Proficient in version control with Git, I've actively contributed to collaborative coding environments, ensuring the integrity of the codebase.
+Greetings! I'm a motivated Front-End Developer with one year of hands-on experience in shaping compelling digital experiences. A dynamic role has marked my journey in the tech world focused on front-end development. In my year-long journey, I've honed my skills in key technologies, including JavaScript, React.js, Node.js, and Next.js. My passion lies in creating seamless and visually appealing user interfaces that enhance the overall user experience. Proficient in version control with Git, I've actively contributed to collaborative coding environments, ensuring the integrity of the codebase.
 
 * 🌍  I'm based in Bengaluru City in Karnataka, India
 * ✉️  You can contact me at [syedmoinuddin106@gmail.com](mailto:syedmoinuddin106@gmail.com)
