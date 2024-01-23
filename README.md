@@ -1,5 +1,5 @@
 
-![My LinkedIn Banner](https://github.com/SyedMoin-lab/SyedMoin-Lab/assets/63508680/6e695728-a191-47e6-aa9f-c562b6117278)![Uploading My Pic.jpg…]()
+![My LinkedIn Banner](https://github.com/SyedMoin-lab/SyedMoin-Lab/assets/63508680/6e695728-a191-47e6-aa9f-c562b6117278)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is I'm Syed Moinuddin
