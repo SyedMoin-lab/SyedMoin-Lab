@@ -1,7 +1,5 @@
 
-
-![Black Technology LinkedIn Banner](https://github.com/SyedMoin-lab/SyedMoin-Lab/assets/63508680/c8f6222d-9a8a-469b-8ed4-9d45ccb1f4d3)
-
+![Black Technology LinkedIn Banner](https://github.com/SyedMoin-lab/SyedMoin-Lab/assets/63508680/5a16791e-bd3c-4be7-8644-0a974fe101bf)
 
 
 
