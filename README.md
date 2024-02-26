@@ -1,10 +1,11 @@
 
 
-![Black Technology LinkedIn Banner](https://github.com/SyedMoin-lab/SyedMoin-Lab/assets/63508680/cfc5953e-637d-48a1-8043-00161dd6c966)
+![Black Technology LinkedIn Banner](https://github.com/SyedMoin-lab/SyedMoin-Lab/assets/63508680/c8f6222d-9a8a-469b-8ed4-9d45ccb1f4d3)
 
 
 
-Hi !My name is I'm Syed Moinuddin
+
+Hi ! My name is I'm Syed Moinuddin
 ==========================================================================================================================================
 
 Software Development Engineer-Front-End Developer
