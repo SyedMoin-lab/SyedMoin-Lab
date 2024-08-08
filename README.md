@@ -8,7 +8,11 @@ Software Development Engineer
 
 * 🌍  I'm based in Bengaluru, Karnataka, IND
 * ✉️  You can contact me at [syedmoinuddin106@gmail.com](mailto:syedmoinuddin106@gmail.com)
-* 🧠  I'm learning React JS, Machine Learing, Ruby
+* 🧠  I'm learning React JS, Machine learning, Ruby
+
+<p>
+   <img height="200" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
+</p>w
 
 <a href="https://www.github.com/SyedMoin-lab" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
