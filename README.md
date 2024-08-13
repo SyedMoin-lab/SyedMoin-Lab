@@ -2,7 +2,7 @@
    <img height="250" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
 </p>
 
-Hi 👋 My name is Syed Moinuddin
+Hi 👋 My name is Syed Moinuddun
 ===============================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=42F7DD&vCenter=true&width=435&lines=Front+End+Engineer;Front+End+Developer;JavaScript+Developer)](https://git.io/typing-svg)
