@@ -5,18 +5,7 @@
 Hi 👋 My name is Syed Moinuddun
 ===============================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=42F7DD&vCenter=true&width=435&lines=Front+End+Engineer;Front+End+Developer;JavaScript+Developer)](https://git.io/typing-svg)
-
-```typescript
-const App = () => {
-   return (
-      <h1>Hello, There!</h1>
-   )
-}
-
-export default App
-```
-
+![](https://komarev.com/ghpvc/?username=SyedMoin-Lab)
 
 * 🌍  I'm based in Bengaluru, Karnataka, IND
 * ✉️  You can contact me at [syedmoinuddin106@gmail.com](mailto:syedmoinuddin106@gmail.com)
