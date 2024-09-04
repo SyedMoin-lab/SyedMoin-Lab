@@ -2,6 +2,8 @@
    <img height="250" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
 </p>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3yfqSUWxFvZELEM4PmlwIR?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Hi 👋 My name is Syed Moinuddun
 ==============================
 
