@@ -1,8 +1,13 @@
-<p>
-   <img height="250" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
-</p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3yfqSUWxFvZELEM4PmlwIR?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<table>
+  <tr>
+    <td><img src="https://i.pinimg.com/736x/7c/6a/03/7c6a03e5bd5d17b5ac7d5f599812aded.jpg" width="300" /></td>
+    <td><img src="https://i.pinimg.com/564x/73/69/a6/7369a6521a3b2aa592a747973c484857.jpg" width="300" /></td>
+     <td><img src="https://i.pinimg.com/736x/b0/a5/3a/b0a53a14c4bf090299a7db6ca022f512.jpg" width="300" /></td>
+  </tr>
+</table>
+
+
 
 Hi 👋 My name is Syed Moinuddun
 ==============================
