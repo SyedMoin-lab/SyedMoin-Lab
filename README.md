@@ -7,7 +7,7 @@ Hi 👋 My name is Syed Moinuddun
 
 ![](https://komarev.com/ghpvc/?username=SyedMoin-Lab)
 
-* 🌍  I'm based in Bengaluru, Karnataka, IND
+* 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [syedmoinuddin106@gmail.com](mailto:syedmoinuddin106@gmail.com)
 * 🧠  I'm learning Vit.JS, Machine learning, Ruby, AI and Much More.
 
