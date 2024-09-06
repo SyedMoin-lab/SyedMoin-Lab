@@ -4,7 +4,6 @@
     <td><img src="https://i.pinimg.com/736x/7c/6a/03/7c6a03e5bd5d17b5ac7d5f599812aded.jpg" width="300" /></td>
     <td><img src="https://i.pinimg.com/564x/73/69/a6/7369a6521a3b2aa592a747973c484857.jpg" width="300" /></td>
      <td><img src="https://i.pinimg.com/736x/b0/a5/3a/b0a53a14c4bf090299a7db6ca022f512.jpg" width="300" /></td>
-  </tr>
 </table>
 
 
