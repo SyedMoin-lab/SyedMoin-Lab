@@ -1,14 +1,3 @@
-
-<table>
-  <tr>
-    <td><img src="https://i.pinimg.com/564x/4a/35/3d/4a353d28980b38b74c21d49240a7845a.jpg" width="300" /></td>
-    <td><img src="https://i.pinimg.com/564x/b4/0d/54/b40d543e6b9fef80aae27000c81a4e88.jpg" width="300" /></td>
-    <td><img src="https://i.pinimg.com/564x/7c/21/3f/7c213fa8da2089132d1ffa883cc6d580.jpg" width="300" /></td>
-</table>
-
-
-
-
 Hi 👋 My name is Syed Moinuddun
 ==============================
 
@@ -26,14 +15,16 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white![ubiquity_research](https://github.com/user-attachments/assets/53e93029-859e-4c0f-be36-d1007fefc6e9)
+)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=fo![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/8dc04022-676a-489a-a2f6-561d712b04b3)
+r-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
