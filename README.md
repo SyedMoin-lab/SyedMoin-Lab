@@ -5,7 +5,7 @@ Hi 👋 My name is Syed Moinuddun
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [syedmoinuddin106@gmail.com](mailto:syedmoinuddin106@gmail.com)
-* 🧠  I'm learning Vit.JS, Machine learning, Ruby, AI and Much More.
+* 🧠  I'm learning Vit.JS, Machine learning, Ruby, AI, Hono, Typescript, and Much More.
 
 <a href="https://www.github.com/SyedMoin-lab" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
