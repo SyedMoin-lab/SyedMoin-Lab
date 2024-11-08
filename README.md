@@ -1,6 +1,8 @@
 Hi 👋 My name is Syed Moinuddun
 ==============================
 
+[![](https://visitcount.itsvg.in/api?id=SyedMoin-Lab&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ![](https://komarev.com/ghpvc/?username=SyedMoin-Lab)
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
