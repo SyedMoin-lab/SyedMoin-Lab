@@ -1,6 +1,11 @@
 Hi 👋 My name is Syed Moinuddun
 ==============================
 
+<p align="center">
+  <img src="Syed Moinuddin.png"" />
+</p>
+
+
 [![](https://visitcount.itsvg.in/api?id=SyedMoin-Lab&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
