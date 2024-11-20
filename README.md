@@ -1,10 +1,22 @@
-Hi 👋 My name is Syed Moinuddun
-==============================
-
 <p align="center">
-  <img src="Syed Moinuddin.png"" />
+  <img src="Madara Uchiha.png" style="width: 600px; animation: bounce 2s infinite;" />
 </p>
 
+<style>
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+</style>
+
+
+
+Hi 👋 My name is Syed Moinuddun
+==============================
 
 [![](https://visitcount.itsvg.in/api?id=SyedMoin-Lab&icon=0&color=0)](https://visitcount.itsvg.in)
 
