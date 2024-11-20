@@ -2,17 +2,6 @@
   <img src="Madara Uchiha.png" style="width: 600px; animation: bounce 2s infinite;" />
 </p>
 
-<style>
-@keyframes bounce {
-  0%, 100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-10px);
-  }
-}
-</style>
-
 
 
 Hi 👋 My name is Syed Moinuddun
