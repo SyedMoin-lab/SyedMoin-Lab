@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0c376b7-f606-4192-99af-445e15ba540e" alt="Black Minimal Motivation Quote LinkedIn Banner">
+</p>
+
+
+
 Hi 👋 My name is Syed Moinuddun
 ==============================
 
