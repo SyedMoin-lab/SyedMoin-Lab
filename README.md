@@ -2,14 +2,11 @@
   <img src="https://github.com/user-attachments/assets/d0c376b7-f606-4192-99af-445e15ba540e" alt="Black Minimal Motivation Quote LinkedIn Banner">
 </p>
 
-Hi 👋 My name is Syed Moinuddun
-==============================
-
 [![](https://visitcount.itsvg.in/api?id=SyedMoin-Lab&icon=0&color=0)](https://visitcount.itsvg.in)
 <a href="https://www.github.com/SyedMoin-lab" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## About Me  
+# About Me  
 
 **"I don’t play the odds; I play the man."**  
 
