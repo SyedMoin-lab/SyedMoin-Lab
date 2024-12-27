@@ -15,6 +15,8 @@ Welcome to my GitHub—where innovation meets execution. I'm **Syed Moinuddin**,
 ### Total Projects Executed  
 I've crushed over **15 projects**—from personal experiments to high-stakes client collaborations. While India is my home turf, my impact knows no borders. Whether it's a sleek interface or a robust backend, I deliver solutions that speak louder than words.  
 
+
+
 ### What I Bring to the Table  
 - 🔥 **Vision**: Turning complex problems into intuitive, user-friendly solutions.  
 - 🚀 **Execution**: Merging creativity with functionality using cutting-edge tech like **React**, **Next.js**, and **Supabase**.  
@@ -68,3 +70,4 @@ Take a look through my repositories—you’ll find solutions, not excuses; resu
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/zcxean3jss"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
