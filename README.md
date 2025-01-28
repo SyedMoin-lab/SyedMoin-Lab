@@ -8,8 +8,6 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
 
 # About Me  
 
-**"I don’t play the odds; I play the man."**  
-
 Welcome to my GitHub—where innovation meets execution. I'm **Syed Moinuddin**, a bold front-end developer with nearly 2 years of experience, pushing the boundaries of web development and delivering exceptional results. My work? It doesn’t just meet expectations—it redefines them.  
 
 ### Total Projects Executed  
